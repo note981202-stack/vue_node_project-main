@@ -11,7 +11,7 @@
         class="position-absolute top-50 start-50 translate-middle text-info-emphasis"
       >
         <h1 class="fw-bold">📖 Guest Book</h1>
-        <p>테스트 중입니다1111111!!!!! 감사합니다</p>
+        <p>테스트 중입니다11111112222222221!!!!! 감사합니다</p>
       </div>
     </div>
 
