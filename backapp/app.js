@@ -11,9 +11,9 @@ app.use("/guestbook", guestbookRouter);
 // app.get("/", (req, res) => {
 //   console.log(req.url);
 //   res.send("Hello World! 6");
-// })
+// });
 
-// public 폴더를 정적 파일 디렉토리로 지정
+// public 폴더를 정적 파일 디렉토리로    지정
 app.use(express.static("public"));
 
 const path = require("path");
