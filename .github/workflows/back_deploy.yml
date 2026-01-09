@@ -28,7 +28,7 @@ jobs:
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
           source: "backapp/*"
-          target: /root/app/
+          target: /root/app/backapp
           rm: true
 
       - name: Restart Server
