@@ -30,7 +30,6 @@ jobs:
           source: "backapp/*"
           target: /root/app/
           rm: true
-          strip_components: 1
 
       - name: Restart Server
         uses: appleboy/ssh-action@v1.0.3
